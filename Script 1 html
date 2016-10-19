@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<script>
+var word = prompt ("what's your favorit season?")
+
+console.log(word +"???")
+</script>
+</body>
+</html>
